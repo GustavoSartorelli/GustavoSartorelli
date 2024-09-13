@@ -1,9 +1,9 @@
 ## Olaaá!! Eu sou o Gustavo Sartorelli
 
-- 🌱 Estudando DS - Desenvolvimento de Sistemas
-- 🤓 HTML/CSS...
-- 😄 17 anos
-- 💻 Estudante do SENAI
+🌱 Estudando DS - Desenvolvimento de Sistemas
+🤓 HTML/CSS...
+😄 17 anos
+💻 Estudante do SENAI
 
  <div>
   <a href="https://github.com/GustavoSartorelli">
