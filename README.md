@@ -1,4 +1,4 @@
-## Olaaá!! Eu sou o Gustavo Sartorelli
+## Helloo!! I am Gustavo
 
 #### 🌱 Estudando DS - Desenvolvimento de Sistemas
 #### 🤓 HTML/CSS...
