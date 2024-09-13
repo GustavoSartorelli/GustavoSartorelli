@@ -4,12 +4,8 @@
 #### 🤓 HTML/CSS...
 #### 😄 17 anos
 #### 💻 Estudante do SENAI
-
- <div>
-  <a href="https://github.com/GustavoSartorelli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoSartorelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSartorelli&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoSartorelli&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSartorelli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <div style="display: inline_block"><br>
   <img align="center" alt="GustavoSartorelli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="GustavoSartorelli-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
