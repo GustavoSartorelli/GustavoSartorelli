@@ -1,4 +1,4 @@
-## Helloo!! I am Gustavo
+## Olaá!! Eu sou o Gustavo
 
 #### 🌱 Estudando DS - Desenvolvimento de Sistemas
 #### 🤓 HTML/CSS...
