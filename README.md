@@ -11,8 +11,8 @@
 </div>
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/e7/dd/c1/e7ddc1210289712ccf189faf56c756be.gif"  />
-<h5>Linguagem de programação aprendida:</h5>
-  <div style="display: inline_block"><br>
+  <h5>Linguagem de programação aprendida:</h5>
+  <div style="display: inline_block">
   <img align="center" alt="GustavoSartorelli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="GustavoSartorelli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="GustavoSartorelli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
