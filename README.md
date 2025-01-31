@@ -1,5 +1,3 @@
-<h3> Olaá!! Eu sou o Gustavo... </h3>
-
 <h4> 🌱 Estudando DS - Desenvolvimento de Sistemas </h4>
 <h4> 🤓 PYTHON, PORTUGOL, HTML, C++ (ARDUINO), PHP... </h4>
 <h4> 💻 Atualmente estudante do SENAI </h4>
