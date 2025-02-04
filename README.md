@@ -1,5 +1,5 @@
 <h4> 🌱 Estudando DS - Desenvolvimento de Sistemas </h4>
-<h4> 🤓 PYTHON, PORTUGOL, HTML, C++ (ARDUINO), PHP... </h4>
+<h4> 🤓 PYTHON, PORTUGOL, HTML, C++ (ARDUINO), PHP, JAVASCRIPT... </h4>
 <h4> 💻 Atualmente estudante do SENAI </h4>
 
 <div align="center">
@@ -15,7 +15,8 @@
   <img align="center" alt="GustavoSartorelli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="GustavoSartorelli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="GustavoSartorelli-arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="GustavoSartorelli-arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="GustavoSartorelli-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="GustavoSartorelli-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
 </div>
 
 <div>
