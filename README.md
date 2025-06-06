@@ -15,7 +15,6 @@
   <img align="center" alt="GustavoSartorelli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="GustavoSartorelli-arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="GustavoSartorelli-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-      <img align="center" alt="GustavoSartorelli-c++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg">
   <img align="center" alt="GustavoSartorelli-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="GustavoSartorelli-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 </div>
