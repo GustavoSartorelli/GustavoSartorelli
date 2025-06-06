@@ -1,5 +1,5 @@
 <h4> 🌱 Estudando DS - Desenvolvimento de Sistemas </h4>
-<h4> 🤓 PYTHON, PORTUGOL, HTML, C++ (ARDUINO), PHP, JAVASCRIPT... </h4>
+<h4> 🤓 PYTHON, PORTUGOL, HTML, C++ (ARDUINO), PHP, JAVASCRIPT, KOTLIN... </h4>
 <h4> 💻 Atualmente estudante do SENAI </h4>
 
 <div align="center">
