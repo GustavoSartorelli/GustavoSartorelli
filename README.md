@@ -8,22 +8,14 @@
 </div>
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/e7/dd/c1/e7ddc1210289712ccf189faf56c756be.gif"  />
-  <h5>Linguagem de programação aprendida:</h5>
   <div style="display: inline_block">
   <img align="center" alt="GustavoSartorelli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img width="12" />
   <img align="center" alt="GustavoSartorelli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img width="12" />
   <img align="center" alt="GustavoSartorelli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img width="12" />
   <img align="center" alt="GustavoSartorelli-arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-      <img width="12" />
   <img align="center" alt="GustavoSartorelli-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-      <img width="12" />
   <img align="center" alt="GustavoSartorelli-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-      <img width="12" />
   <img align="center" alt="GustavoSartorelli-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-      <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
