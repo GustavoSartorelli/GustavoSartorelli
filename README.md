@@ -2,11 +2,6 @@
 <h4> 🤓 PYTHON, PORTUGOL, SQL, HTML, C++ (ARDUINO), PHP, JAVASCRIPT, KOTLIN... </h4>
 <h4> 💻 Atualmente estudante do SENAI </h4>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoSartorelli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoSartorelli&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 <img align="right" height="150" src="https://i.pinimg.com/originals/e7/dd/c1/e7ddc1210289712ccf189faf56c756be.gif"  />
   <div style="display: inline_block">
   <img align="center" alt="GustavoSartorelli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
